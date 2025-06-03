@@ -1,2 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JSFX"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<index version="1" name="JSFX" commit="">
+  <category name="ReaperAccessible">
+  
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_1.jsfx" type="effect" desc="Mapper for cymbals (version 1)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_1
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_1.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_1.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_1.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_2.jsfx" type="effect" desc="Mapper for cymbals (version 2)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_2
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_2.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_2.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_2.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_3.jsfx" type="effect" desc="Mapper for cymbals (version 3)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_3
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_3.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_3.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_3.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_4.jsfx" type="effect" desc="Mapper for cymbals (version 4)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_4
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_4.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_4.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_4.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_5.jsfx" type="effect" desc="Mapper for cymbals (version 5)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_5
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_5.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_5.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_5.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_6.jsfx" type="effect" desc="Mapper for cymbals (version 6)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_6
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_6.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_6.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_6.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Cymbal_Mapper_7.jsfx" type="effect" desc="Mapper for cymbals (version 7)">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Cymbal_Mapper_7
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_7.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_7.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Cymbal_Mapper_7.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_MIDI_Roll_Progression.jsfx" type="effect" desc="MIDI Roll Progression Mapper">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_MIDI_Roll_Progression
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_MIDI_Roll_Progression.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_MIDI_Roll_Progression.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_MIDI_Roll_Progression.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="LRL_DrumAccess_Notes_And_CC_Mapper.jsfx" type="effect" desc="Notes and CC Mapper">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of LRL_DrumAccess_Notes_And_CC_Mapper
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/LRL_DrumAccess_Notes_And_CC_Mapper.jsfx</source>
+        <file src="Effects/ReaperAccessible/LRL_DrumAccess_Notes_And_CC_Mapper.jsfx" dest="Effects/ReaperAccessible/LRL_DrumAccess_Notes_And_CC_Mapper.jsfx" />
+      </version>
+    </reapack>
+
+    <reapack name="TunerAccess.jsfx" type="effect" desc="Accessible Tuner for Reaper">
+      <version name="1.0" author="ReaperAccessible" time="2025-06-02T00:00:00Z">
+        <changelog><![CDATA[
+Initial release of TunerAccess
+        ]]></changelog>
+        <source>https://raw.githubusercontent.com/reaperaccessible/JSFX/master/Effects/ReaperAccessible/TunerAccess.jsfx</source>
+        <file src="Effects/ReaperAccessible/TunerAccess.jsfx" dest="Effects/ReaperAccessible/TunerAccess.jsfx" />
+      </version>
+    </reapack>
+
+  </category>
+</index>
